@@ -51,7 +51,7 @@ Easybank is a modern digital banking solution designed to streamline and enhance
 
 - GitHub Repo - [Repo](https://github.com/basemsameh/Easybank-landing-page.git)
 - Challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
-- Live URL - [Demo]()
+- Live URL - [Demo](https://basemsameh.github.io/Easybank-landing-page/)
 
 ## Author
 
